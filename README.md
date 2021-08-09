@@ -69,11 +69,11 @@ ICCV 2021 (Oral)
 
 ## More Results
 
-![](picture/1.jpg)![](picture/1.gif)
-
-![](picture/2.jpg)![](picture/2.gif)
-
-![](picture/3.jpg)![](picture/3.gif)
+Input             |  Animated Output
+:-------------------------:|:-------------------------:
+![](picture/1.jpg)  |  ![](picture/1.gif)
+![](picture/2.jpg)  |  ![](picture/2.gif)
+![](picture/3.jpg)  |  ![](picture/3.gif)
 
 ## Citation
 
