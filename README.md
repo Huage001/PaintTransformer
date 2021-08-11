@@ -1,6 +1,6 @@
 # Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
 
-> [[Paper](https://arxiv.org/abs/2108.03798)] [[PyTorch Implementation](https://github.com/Huage001/PaintTransformer)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)] [[Huggingface Gradio Demo](https://huggingface.co/spaces/akhaliq/PaintTransformer)]
+> [[Paper](https://arxiv.org/abs/2108.03798)] [[PyTorch Implementation](https://github.com/Huage001/PaintTransformer)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)] [[Huggingface Gradio Demo](https://huggingface.co/spaces/akhaliq/PaintTransformer)] [[Colab](https://colab.research.google.com/drive/1m2gAYOdRIQVxrnVySmA-Pug0H_I13-Sp?usp=sharing)]
 
 ## Overview
 
@@ -74,6 +74,12 @@ Input             |  Animated Output
 ![](picture/1.jpg)  |  ![](picture/1.gif)
 ![](picture/2.jpg)  |  ![](picture/2.gif)
 ![](picture/3.jpg)  |  ![](picture/3.gif)
+
+## App
+
+* Do not want to run the code? Try an App [_一刻相册_](https://photo.baidu.com/) downloaded from [here](https://photo.baidu.com/union/youa/home)!
+
+![](picture/yike.jpg)
 
 ## Citation
 
