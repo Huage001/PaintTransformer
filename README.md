@@ -1,6 +1,6 @@
 # Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
 
-> [[Paper](https://arxiv.org/abs/2108.03798)] [[PyTorch Implementation](https://github.com/Huage001/PaintTransformer)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)]
+> [[Paper](https://arxiv.org/abs/2108.03798)] [[PyTorch Implementation](https://github.com/Huage001/PaintTransformer)] [[Paddle Implementation](https://github.com/PaddlePaddle/PaddleGAN)] [[Huggingface Gradio Demo](https://huggingface.co/spaces/akhaliq/PaintTransformer)]
 
 ## Overview
 
