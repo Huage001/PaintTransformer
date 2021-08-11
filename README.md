@@ -79,7 +79,7 @@ Input             |  Animated Output
 
 * Do not want to run the code? Try an App [_一刻相册_](https://photo.baidu.com/) downloaded from [here](https://photo.baidu.com/union/youa/home)!
 
-![](picture/yike.jpg)
+<img src="https://github.com/Huage001/PaintTransformer/blob/main/picture/yike.jpg" width="500px"/>
 
 ## Citation
 
